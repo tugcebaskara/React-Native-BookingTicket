@@ -59,7 +59,7 @@ Bu projeyi çalıştırmak için şunları yüklemeniz gerekiyor:
 
 ## Kullanım
 
-BBookingTicket'i çalıştırmak için, terminalde proje klasörüne gidin ve `expo start` komutunu çalıştırın.
+BookingTicket'i çalıştırmak için, terminalde proje klasörüne gidin ve `expo start` komutunu çalıştırın.
 
 ## Katkıda Bulunma
 
