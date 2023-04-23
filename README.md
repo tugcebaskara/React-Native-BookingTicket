@@ -1,11 +1,11 @@
-# BiletApp
+# BookingTicket
 
-BiletApp, Expo ve React Native kullanarak geliştirilen bir mobil uygulamadır. Bu uygulama, bilet satın alma, rezervasyon yapma ve diğer ilgili işlemler için kullanılabilir.
+BookingTicket, Expo ve React Native kullanarak geliştirilen bir mobil uygulamadır. Bu uygulama, bilet satın alma, rezervasyon yapma ve diğer ilgili işlemler için kullanılabilir.
 
 
 ## Başlangıç
 
-BiletApp'i yerel bilgisayarınıza klonlayın ve aşağıdaki adımları takip edin:
+BookingTicket'i yerel bilgisayarınıza klonlayın ve aşağıdaki adımları takip edin:
 
 ## Statik Veriler
 
@@ -59,7 +59,7 @@ Bu projeyi çalıştırmak için şunları yüklemeniz gerekiyor:
 
 ## Kullanım
 
-BiletApp'i çalıştırmak için, terminalde proje klasörüne gidin ve `expo start` komutunu çalıştırın.
+BBookingTicket'i çalıştırmak için, terminalde proje klasörüne gidin ve `expo start` komutunu çalıştırın.
 
 ## Katkıda Bulunma
 
