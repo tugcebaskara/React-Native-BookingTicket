@@ -18,7 +18,7 @@ Bu veriler, uygulama geliştirilirken kullanılmış ve kullanıcı deneyimini g
 
 ## Kullanılan Kütüphaneler
 
-BiletApp projesinde aşağıdaki kütüphaneler kullanılmıştır:
+BookingTicket projesinde aşağıdaki kütüphaneler kullanılmıştır:
 
 - react-native-dropdown-picker: "^5.4.6"
 - react-native-element-dropdown: "^2.9.0"
